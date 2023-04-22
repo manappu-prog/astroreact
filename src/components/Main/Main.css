@@ -1,0 +1,29 @@
+.main{
+    width: 80%;
+    background-color: #FFEFE3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.swiper{
+    height: 60%;
+    width: 100%;
+}
+.swiper img{
+    height: 100%;
+    width: 20%;
+}
+.user-test{
+    height: 30%;
+}
+.user-test img{
+    height: 100%;
+}
+
+.banner{
+    width: 100%;
+}
+.banner img{
+    width: 100%;
+}

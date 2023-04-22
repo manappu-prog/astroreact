@@ -1,0 +1,55 @@
+.header{
+    height: 80vh;
+    width: 100%;
+    background-color: #421900;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.list-items{
+    width: 40%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.list-items li a{
+    color: white;
+    text-decoration: none;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.logo-name{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.astro-para{
+    width: 50%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.para-head{
+    color: white;
+    font-size: 3rem;
+    width: 100%;
+}
+.para-content{
+    color: white;
+    padding-bottom: 2rem;
+}
+.astro-para button{
+    width: 9rem;
+    color: white;
+    background-color: #D97122;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 25px;
+}
